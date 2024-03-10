@@ -1,6 +1,3 @@
-Certainly! Below is a simple example of a GitHub README for a project named "Landing Page" created with HTML and CSS. Feel free to customize it according to your project's specifics.
-
-```markdown
 # Landing Page
 
 A simple and responsive landing page created with HTML and CSS.
